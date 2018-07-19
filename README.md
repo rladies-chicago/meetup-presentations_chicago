@@ -2,9 +2,9 @@
 
 # R-Ladies Chicago Meetup Materials
 
-Materials from our Meetups will be posted here. Please feel free to reach out to *chicago [at] rladies.org* with any questions or requests to update our materials.
+Links to materials from our Meetups will be posted here (content to be found on our chapter's [Github page](https://github.com/rladies-chicago)). Please feel free to reach out to **chicago@rladies.org** with any questions.
 
-Learn more about our group at our *[website](https://rladieschicago.org/)* and join our *[Meetup group](https://www.meetup.com/rladies-chicago/)*! 
+Learn more about our group at our **[website](https://rladieschicago.org/)** and join our **[Meetup group](https://www.meetup.com/rladies-chicago/)**! 
 
 ## 2018
 
