@@ -6,8 +6,9 @@ Links to materials from our Meetups will be posted here (content to be found on 
 
 Learn more about our group at our **[website](https://rladieschicago.org/)** and join our **[Meetup group](https://www.meetup.com/rladies-chicago/)**! 
 
-## 2018
 
+## 2018
+* [2018-12-05](https://github.com/rladies-chicago/2018-12-05-meetup) DecembeR Holiday Party & Collaborative Planning
 * [2018-07-02](https://github.com/rladies-chicago/2018-07-02-wine-tasting) Wine Tasting and Code 
 * [2018-05-22](https://github.com/rladies-chicago/May_2018_Data_Visualization) 3 Ways to Make a Data Visualization
 * To be updated soon
