@@ -9,12 +9,13 @@ Learn more about our group at our **[website](https://rladieschicago.org/)** and
 
 ## 2018
 * [2018-12-05](https://github.com/rladies-chicago/2018-12-05-meetup) DecembeR Holiday Party & Collaborative Planning
+* [2018-09-27](https://github.com/rladies-chicago/2018-09-27-Protips-career-talk) Protips career talk
+* [2018-07-19](https://github.com/rladies-chicago/2018-07-19-R-in-Minecraft) R in Minecraft
 * [2018-07-02](https://github.com/rladies-chicago/2018-07-02-wine-tasting) Wine Tasting and Code 
 * [2018-05-22](https://github.com/rladies-chicago/May_2018_Data_Visualization) 3 Ways to Make a Data Visualization
-* To be updated soon
 
 ## 2017
-* To be updated soon
+* [2017-12-13](https://github.com/rladies-chicago/Getting_down_with_R_Markdown) Getting Down with R Markdown
 
 ## Additional information
 
