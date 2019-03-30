@@ -7,15 +7,35 @@ Links to materials from our Meetups will be posted here (content to be found on 
 Learn more about our group at our **[website](https://rladieschicago.org/)** and join our **[Meetup group](https://www.meetup.com/rladies-chicago/)**! 
 
 
+## 2019
+* [2019-03-26](https://github.com/rladies-chicago/rladies-chicago-2019) R-Ladies Chicago welcomes Mara Averick: Sustainers of the Tidyverse
+* [2019-02-22](link) Galentine's Day Social and Networking!
+* [2019-01-28](https://rladieschicago.org/post/2019-02-04-jan-recap/) What We Learned at rstudio::conf 2019: Lightning Talks!
+
 ## 2018
 * [2018-12-05](https://github.com/rladies-chicago/2018-12-05-meetup) DecembeR Holiday Party & Collaborative Planning
-* [2018-09-27](https://github.com/rladies-chicago/2018-09-27-Protips-career-talk) Protips career talk
-* [2018-07-19](https://github.com/rladies-chicago/2018-07-19-R-in-Minecraft) R in Minecraft
-* [2018-07-02](https://github.com/rladies-chicago/2018-07-02-wine-tasting) Wine Tasting and Code 
+* [2018-11-13](https://docs.google.com/presentation/d/15zC1Bf_2CQZ66WS9tsEIyBGBu0v3OaGse6VP-4B_FGU/edit#slide=id.p5) 'Git' down with Git + R (Workshop & Tutorial)
+* [2018-10-16](https://github.com/rladies-chicago/2018-n8-Hacktoberfest) HacktobeRfest @ Haymarket
+* [2018-09-27](https://github.com/rladies-chicago/2018-09-27-Protips-career-talk) Pro tips: how to start/advance your data science career
+* [2018-09-10](https://docs.google.com/presentation/d/1W5bzTrlhl5Wk_IWqtCr_HvpIuUwGDFdVpxP8NkWXKIw/edit) Dataviz Study Group: Intro to ggplot2
+* [2018-08-28](link) Astrostatistics in R: Predicting Solar Flares
+* [2018-07-19](https://github.com/rladies-chicago/2018-07-19-R-in-Minecraft) 
+Game Time! R in Minecraft - Kid-Friendly Event
+* [2018-07-02](https://github.com/rladies-chicago/2018-07-02-wine-tasting) R-Ladies Summer Social: Sip & Code!
 * [2018-05-22](https://github.com/rladies-chicago/May_2018_Data_Visualization) 3 Ways to Make a Data Visualization
+* [2018-04-26](https://github.com/rladies-chicago/April_2018_meetup_spatial-data) Introduction to Spatial Data Analysis and Mapping in R with Angela Li
+* [2018-03-08](https://github.com/rladies-chicago/links-to-slides) R-Ladies Chicago + Hadley Wickham: Introduction to tidy evaluation in R
+* [2018-02-13](https://github.com/rladies-chicago/r_packages) Make your own R package from scratch with Stephanie Kirmer
+* [2018-01-25](link) January R-Ladies Community Meetup
 
 ## 2017
-* [2017-12-13](https://github.com/rladies-chicago/Getting_down_with_R_Markdown) Getting Down with R Markdown
+* [2017-12-13](https://github.com/rladies-chicago/Getting_down_with_R_Markdown) Intro to R Markdown + Collaborative Coding Activity w/Kaylene McClanahan
+* [2017-11-16](link) Tidy Data Workflows with Emily Riederer (& Conference Recap)
+* [2017-10-26](https://github.com/rladies-chicago/beer-data-science) Oktoberfest Edition: Beer-in-Hand Data Science
+* [2017-09-28](https://github.com/rladies-chicago/RLadies-Chicago-Sept-2017) 
+Data Visualization Workshop with ggplot2
+* [2017-08-23](https://github.com/rladies-chicago/2017-08-23_hash-package-workshop) Package Workshop & Collaborative Planning
+* [2017-07-18](https://github.com/rladies-chicago/2017-07-18_kickoff_meeting) Launching R-Ladies Chicago!
 
 ## Additional information
 
