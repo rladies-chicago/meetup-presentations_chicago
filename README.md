@@ -8,8 +8,9 @@ Learn more about our group at our **[website](https://rladieschicago.org/)** and
 
 
 ## 2019
+* [2019-04-18](https://github.com/rladies-chicago/2019-04-18-shiny-workshop) Data Visualization with Maps Shiny Workshop
 * [2019-03-26](https://github.com/rladies-chicago/rladies-chicago-2019) R-Ladies Chicago welcomes Mara Averick: Sustainers of the Tidyverse
-* [2019-02-22](link) Galentine's Day Social and Networking!
+* [2019-02-22](https://www.meetup.com/rladies-chicago/events/258562339/) Galentine's Day Social and Networking!
 * [2019-01-28](https://rladieschicago.org/post/2019-02-04-jan-recap/) What We Learned at rstudio::conf 2019: Lightning Talks!
 
 ## 2018
@@ -26,7 +27,7 @@ Game Time! R in Minecraft - Kid-Friendly Event
 * [2018-04-26](https://github.com/rladies-chicago/April_2018_meetup_spatial-data) Introduction to Spatial Data Analysis and Mapping in R with Angela Li
 * [2018-03-08](https://github.com/rladies-chicago/links-to-slides) R-Ladies Chicago + Hadley Wickham: Introduction to tidy evaluation in R
 * [2018-02-13](https://github.com/rladies-chicago/r_packages) Make your own R package from scratch with Stephanie Kirmer
-* [2018-01-25](link) January R-Ladies Community Meetup
+* [2018-01-25](https://www.meetup.com/rladies-chicago/events/247052131/) January R-Ladies Community Meetup
 
 ## 2017
 * [2017-12-13](https://github.com/rladies-chicago/Getting_down_with_R_Markdown) Intro to R Markdown + Collaborative Coding Activity w/Kaylene McClanahan
